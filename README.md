@@ -6,3 +6,5 @@ Right now, I do not know the details of the project, that's why I can not post a
 
 You can access my Wiki Homepage from [here](https://github.com/usanli/swe573/wiki) or access any specific page from the links below:
 - [About GitHub](https://github.com/usanli/swe573/wiki/About-GitHub)
+- [Requirements Elicitation for NameThatObject.com](https://github.com/usanli/SWE573/wiki/Requirements-Elicitation-for-NameThatObject.com)
+- [Mock‐up Scenario for NameThatObject.com](https://github.com/usanli/SWE573/wiki/Mock%E2%80%90up-Scenario-for-NameThatObject.com)
