@@ -1,6 +1,6 @@
 # SWE573 - Project: NameThatObject.com
 
-Hi everyone, I'm Umut Şanlı. I'm a Master's Student of Software Engineering program at Boğaziçi University. This repository is for my SWE573-Software Development Practice course. In this course, I'll be working on a software project and my progress can be followed from this repository.
+Hi everyone, I'm **Umut Şanlı**. I'm a Master's Student of **Software Engineering** program at **Boğaziçi University**. This repository is for my **SWE573-Software Development Practice** course. In this course, I'll be working on a software project and my progress can be followed from this repository.
 
 You can find the details about my project in Wiki page.
 
